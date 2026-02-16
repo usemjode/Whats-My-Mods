@@ -1,5 +1,4 @@
-<img width="866" height="288" alt="New_Project_-_2026-02-16T151048 854-removebg-preview" src="https://github.com/user-attachments/assets/768b0696-f35c-4bb5-85d1-ed055d213b63" />
-
+<img width="866" height="288" alt="New_Project_-_2026-02-16T155441 613-removebg-preview" src="https://github.com/user-attachments/assets/fa426220-acd2-4f78-b26c-15192b126764" />
 A lightweight, high-visibility mod management tool for Gorilla Tag. This plugin allows you to see exactly what is running in your BepInEx environment without leaving the game.
 
 ## Features
