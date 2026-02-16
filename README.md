@@ -15,7 +15,10 @@ A lightweight, high-visibility mod management tool for Gorilla Tag. This plugin 
 ## Controls
 * **TAB**: Toggle the Ui.
 
+
 ## Credits
 * Developed by S3cretVR
 * Code By Gemini Flash 3
 * Built using BepInEx and Unity IMGUI.
+
+<img width="315" height="408" alt="Whats My Mods Ui" src="https://github.com/user-attachments/assets/667a414d-6bf0-4541-959a-51cb0cf6bc9f" />
